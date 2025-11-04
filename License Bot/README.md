@@ -21,6 +21,6 @@ Developed by Sync Studios.
 
 1. **Install the extension**
 
-   Place the file in your FaxStore extensions directory:
+   Place the file in your FaxStore extensions directory: (/home/faxstore/extensions)
 
    Place the guild id in the config at the top of the file.
