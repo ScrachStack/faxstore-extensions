@@ -24,3 +24,6 @@ Developed by Sync Studios.
    Place the file in your FaxStore extensions directory: (/home/faxstore/extensions)
 
    Place the guild id in the config at the top of the file.
+
+## Credits
+- https://github.com/FAXES/faxstore-extensions/blob/main/license%20system%20discord%20bot/LicenseSystem%20Bot.js Inspiration/Key Gen Function 
